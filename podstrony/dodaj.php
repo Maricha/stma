@@ -92,8 +92,8 @@ mysql_connect('localhost', 'root', '');
 
 <div class="jumbotron bg3">
 
-
-
+<h1 style="margin-top: 50px; color: white; font-size: 80px;">Nie ma twojej ulubionej książki? <h2>
+<h2 style="color: white;"> Nie czekaj! &nbsp; Dodaj ją! </h2>
 </div>
 
 <div class="col-md-3"></div>
